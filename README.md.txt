@@ -10,13 +10,13 @@ steps:
 * [ ] mengenal file 'Changes', 'String', dan 'Commited'
 * [ ] menggunakan git status, git add, git commit -> code
 	```
-	$ git init
-	$ git status
-	$ git add .
-	$ git status
-	$ git config --global user.name rhayang
-	$ git config --global user.email rhayangm@gmail.com
-	$ git commit -m "blablabla"
+	$ git init						<------- untuk install git ke program kita
+	$ git status      				<------- untuk melihat perubahan yg udh diubah
+	$ git add .						<------- untuk menyimpan yg sudah dirubah
+	$ git status					<------- untuk melihat perubahan yg udh di save
+	$ git config --global user.name rhayang					<---- sebelum melakukan commit
+	$ git config --global user.email rhayangm@gmail.com		<---- sebelum melakukan commit
+	$ git commit -m "blablabla"								<---- untuk memberi nama yg perubahan yg di save
 	```
 
 * [ ] melakukan penambahan file
