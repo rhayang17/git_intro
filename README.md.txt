@@ -1,5 +1,5 @@
 # Git Intro I-Dev
-## hastagnya semakin banyak, semakin kecil tulisannya
+## (hastagnya semakin banyak, semakin kecil tulisannya)
 ------
 Buka sitik JOSS
 
@@ -9,13 +9,15 @@ steps:
 * [ ] buat file baru dalam direktori bernama README.md
 * [ ] mengenal file 'Changes', 'String', dan 'Commited'
 * [ ] menggunakan git status, git add, git commit -> code
-```
-$ git init
-$ git status
-$ git add .
-$ git status
-```
-kutipnya itu yg dibawah 'esc' dan harus 3 x
+	```
+	$ git init
+	$ git status
+	$ git add .
+	$ git status
+	$ git config --global user.name rhayang
+	$ git config --global user.email rhayangm@gmail.com
+	$ git commit -m "blablabla"
+	```
 
 * [ ] melakukan penambahan file
 * [ ] intro gituhub
