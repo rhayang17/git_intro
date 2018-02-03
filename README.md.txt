@@ -19,6 +19,10 @@ steps:
 	$ git commit -m "blablabla"								<---- untuk memberi nama yg perubahan yg di save
 	```
 
+	```
+	$ git log						<------- untuk melihat perubahan-perubahan yg telah disave
+	$ git reset --hard fr2365gvh23vgh2312		<---- untuk mengembalikan ke yg sebelumnya, fr2365gvh23vgh2312 adalah kode dari commit yg mau dipilih
+	
 * [ ] melakukan penambahan file
 * [ ] intro gituhub
 * [ ] remote repo -> code
